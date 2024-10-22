@@ -17,7 +17,7 @@
 
   https://ju4nm4s1.github.io/site-cubo-magico/index.html
 
-### jogo feito por mim
+### jogo feito por mim na unity utilizando C++
 
   https://juanmsilva.itch.io/zumbie-game
 </div>
