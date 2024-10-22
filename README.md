@@ -16,4 +16,8 @@
 ### site desenvolvido por mim
 
   https://ju4nm4s1.github.io/site-cubo-magico/index.html
+
+### jogo feito por mim
+
+  https://juanmsilva.itch.io/zumbie-game
 </div>
