@@ -1,5 +1,7 @@
 ### Olá! eu sou o Juan martins silva
-![linkedin(![Ju4nM4S1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Ju4nM4S1&show_icons=true&theme=radical)](https://www.linkedin.com/in/juan-martins-silva-116404335/)
+
+### Linkedin
+https://www.linkedin.com/in/juan-martins-silva-116404335/ 
 
 
 
